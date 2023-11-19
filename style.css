@@ -2,8 +2,38 @@
   border: 2px solid black;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 13%;
   transform: translate(-50%, -50%);
   height: 600px;
-  width: 600px;
+  width: 400px;
+}
+
+#canvas2 {
+  border: 2px solid black;
+  position: absolute;
+  top: 50%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+  height: 600px;
+  width: 400px;
+}
+
+#canvas3 {
+  border: 2px solid black;
+  position: absolute;
+  top: 50%;
+  left: 63%;
+  transform: translate(-50%, -50%);
+  height: 600px;
+  width: 400px;
+}
+
+#canvas4 {
+  border: 2px solid black;
+  position: absolute;
+  top: 50%;
+  left: 88%;
+  transform: translate(-50%, -50%);
+  height: 600px;
+  width: 400px;
 }
